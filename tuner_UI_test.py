@@ -1,5 +1,5 @@
 import sys
-from touch_screen_UI_V2 import *
+from touch_screen_UI import *
 import time
 import threading
 import serial
