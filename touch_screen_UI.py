@@ -11,7 +11,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import QApplication, QWidget, QInputDialog, QLineEdit
 from record import record_sound
 from change_bitrate import *
-from pitch_detect_algo_V3 import *
+from pitch_detect_algo import *
 from QCandyUi.CandyWindow import colorful
 import winsound
 key_num = [47,40,44,49]
